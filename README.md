@@ -7,11 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **react Native**
+⚔️ ᴀʙᴏᴜᴛ ᴍᴇ :
 
-- 💬 Ask me about **Android**
+✔️ 👋 ʜɪ, ɪ’ᴍ yunnus sayyyed .
 
-- 📫 How to reach me **yunnus143@gmail.com**
+✔️ 👀 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ᴄᴏᴅɪɴɢ & ʟɪᴛᴛʟᴇ ʙɪᴛ ɪɴ ʜᴀᴄᴋɪɴɢ ꜱᴛᴜꜰꜰꜱ .
+
+✔️ 🤠 ɪ’ᴍ ᴀʟʀᴇᴀᴅʏ ᴋɴᴏᴡ Java , ʜᴛᴍʟ , JavaScript & ᴄꜱꜱ .
+
+✔️ 📝 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴ React  & ꜱᴏᴍᴇ ᴇᴛʜɪᴄᴀʟ ꜱᴛᴜꜰꜰꜱ .
+
+✔️ 🤹‍♂️ ꜰᴏʀ ᴄʜɪʟʟ ᴊᴏɪɴ TELEGRAM :- 
+
+✔️ ☎ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ :- +919067770444
+
+✔️ 📧 ᴇ-ᴍᴀɪʟ ᴀᴛ :- yunnus143@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
