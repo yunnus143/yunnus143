@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://user-images.githubusercontent.com/31867166/196738604-b9b383b9-f5db-4285-8137-1f04be45a117.gif)
 <h1 align="center">Hi 👋, I'm Yunnus Sayyed</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
